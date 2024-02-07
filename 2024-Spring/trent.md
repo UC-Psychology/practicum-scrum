@@ -11,3 +11,6 @@ A few sentences for my updates...
 ## Date: 2025-02-07
 
 Here are some more notes!
+
+> another note, oo fancy. 
+

@@ -8,4 +8,12 @@ A few sentences for my updates...
 - dash here <- 
     - type more here.
 
-*more changes here!*
+## Date: 2025-02-07
+
+Here are some more notes!
+
+> another note, oo fancy. 
+
+MOre changes herereere
+
+![alt text](../images/image.png)

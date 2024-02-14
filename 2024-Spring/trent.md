@@ -15,3 +15,5 @@ Here are some more notes!
 > another note, oo fancy. 
 
 MOre changes herereere
+
+![alt text](../images/image.png)

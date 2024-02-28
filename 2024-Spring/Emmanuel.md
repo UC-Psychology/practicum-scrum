@@ -27,7 +27,7 @@ ___
 ## 2024-02-21
 
 Got started in GitHub today!
-Started MQE-proposal timeline of tasks ([[TIMELINE MQE Pre-review]]). Created presentation of my MQE + dissertation plan. Shared with Peter; scheduled to share with Trent; emailed training committee to share with them.
+Started MQE-proposal timeline of tasks (**MQE Pre-review**). Created presentation of my MQE + dissertation plan. Shared with Peter; scheduled to share with Trent; emailed training committee to share with them.
 
 - [x] Email teaching mentor (Jacobs)
 - [ ] Email Chemero (philosophy) to share presentation for feedback
@@ -53,7 +53,7 @@ Screenshot below of notes im keeping in Obsidian.
 
 ## Next scrum: 2024-03-06
 
-- [ ] continue with [[TIMELINE MQE Pre-review]], keep notes specific to intersectionality methodologies
+- [ ] continue with **MQE Pre-review**, keep notes specific to intersectionality methodologies
 - [ ] attend canvas training on ==March 4th==
 - [x] get this .md file onto github
 

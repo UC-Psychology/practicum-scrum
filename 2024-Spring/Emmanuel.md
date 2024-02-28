@@ -28,8 +28,7 @@ Started MQE-proposal timeline of tasks ([[TIMELINE MQE Pre-review]]). Created pr
 	- got sick! but back on track!
 
 ## Next scrum: 2024-02-28
-
----
+___
 ## 2024-02-28
 
 - Reached out to my teaching mentor for summer; training coming up March 4th
@@ -44,6 +43,5 @@ Screenshot below of notes im keeping in Obsidian.
 
 - [ ] continue with [[TIMELINE MQE Pre-review]], keep notes specific to intersectionality methodologies
 - [ ] attend canvas training on ==March 4th==
-- [ ] get this .md file onto github
-
----
+- [x] get this .md file onto github
+___

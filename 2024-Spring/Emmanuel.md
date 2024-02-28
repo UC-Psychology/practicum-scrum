@@ -49,7 +49,7 @@ ___
 - Feeling proud about the progress I'm making on different projects.
 
 Screenshot below of notes im keeping in Obsidian.
-![Obsidian Screenshot 2024-02-27](https://github.com/UC-Psychology/practicum-scrum/blob/patch-1/images/Screenshot%202024-02-27.png "progress")
+![Obsidian Screenshot 2024-02-27](../images/Screenshot%202024-02-27.png "progress")
 
 ## Next scrum: 2024-03-06
 

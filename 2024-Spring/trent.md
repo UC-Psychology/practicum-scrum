@@ -17,3 +17,15 @@ Here are some more notes!
 MOre changes herereere
 
 ![alt text](../images/image.png)
+
+## Date: 2024-02-14
+
+### Mermaid Diagram Example
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```

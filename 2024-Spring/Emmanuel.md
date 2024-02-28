@@ -57,4 +57,9 @@ Screenshot below of notes im keeping in Obsidian.
 - [ ] attend canvas training on ==March 4th==
 - [x] get this .md file onto github
 
+- can make mermaid diagrams in Obsidian
+- can link file and edit in Obsidian
+- can delete patch-1 branch
+- ../ move up a directory
+
 ___

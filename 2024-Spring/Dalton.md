@@ -30,3 +30,13 @@ This week has been a little slower, I met the ICPA deadline and have some progre
 - I am meeting with ISIC (Island Systems Integration Consortium) next week to help with a NSF project they have (PEWS)
 - Working on getting my *resume* together to start applying for *jobs*
 - In theory I should have a paper to review on my desk next week before submission
+
+## Week 8
+
+I have primarily been focussing on preparing my Dissertation proposal scheduled for Friday, but have also been working on finding ways to host and record data from an online Unity experiment. Based on research, using an AWS seems like it may be the most effective way to do this. Also I have had meetings with ISIC (Island Systems Integration Consortium), about work I will be doing with them for my PEWS course. Grievance review comittee work is also ongoing. 
+
+### Goals:
+
+- Have proposal complete
+- Be ready to start data collection next week.
+- Breathe?

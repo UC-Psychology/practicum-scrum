@@ -49,17 +49,46 @@ ___
 - Feeling proud about the progress I'm making on different projects.
 
 Screenshot below of notes im keeping in Obsidian.
-![Obsidian Screenshot 2024-02-27](../images/Screenshot%202024-02-27.png "progress")
+![Obsidian Screenshot 2024-02-27](../images/Emmanuel-progress-1.png "progress")
 
 ## Next scrum: 2024-03-06
 
-- [ ] continue with **MQE Pre-review**, keep notes specific to intersectionality methodologies
-- [ ] attend canvas training on ==March 4th==
+- [x] continue with **MQE Pre-review**, keep notes specific to intersectionality methodologies
+- [x] attend canvas training on ==March 4th==
 - [x] get this .md file onto github
 
 - can make mermaid diagrams in Obsidian
 - can link file and edit in Obsidian
 - can delete patch-1 branch
 - ../ move up a directory
+
+___
+
+## 2024-03-06
+
+- made more progress on MQE pre-review, wrote up summaries of several articles, and started addressing outline feedback
+  - aiming to do a presentation on intersectionality at my GA placement
+- continuing to use Obsidian, making daily todo lists - its really useful. im starting to use the canvas feature now to organise my mqe outline pre-reviews
+- set up meeting with my teaching mentor for the summer course im to teach
+
+### Progress
+
+- **blue** are #MQE notes;
+- **yellow** are file attachments;
+- **green** are #Dissertation notes;
+- **orange** are #Teaching;
+- **pink** are #papers;
+- **purple** are #SCRA (society for community research and action)
+
+![Progress 2](../images/Emmanuel-progress-2.png)
+
+### Canvas of MQE outline
+
+![MQE outlining](../images/Emmanuel-canvas-1.png)
+
+## Next scrum: 2024-03-13
+
+- [ ] Finish up with article pre-reviews for outline
+- [ ] work on idea for wiki page
 
 ___

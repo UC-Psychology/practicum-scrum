@@ -71,7 +71,7 @@ ___
 - continuing to use Obsidian, making daily todo lists - its really useful. im starting to use the canvas feature now to organise my mqe outline pre-reviews
 - set up meeting with my teaching mentor for the summer course im to teach
 
-### Progress
+### Progress 03-06
 
 - **blue** are #MQE notes;
 - **yellow** are file attachments;
@@ -86,9 +86,35 @@ ___
 
 ![MQE outlining](../images/Emmanuel-canvas-1.png)
 
-## Next scrum: 2024-03-13
+## Next scrum: ~~2024-03-13 CANCELLED (spring break)
 
 - [ ] Finish up with article pre-reviews for outline
-- [ ] work on idea for wiki page
+- [x] work on idea for wiki page
+
+___
+
+## 2024-03-13
+
+- found a tutor for understanding grad school dynamics
+- got good tips on organising feedback & reverse outlining
+- made template to autogenerate PGSA student exp survey charts in excel
+- started wiki page with Trent, `gradschoolsurvival.md`
+
+Today:
+
+- [x] meet with Trent re: wiki page
+- [ ] brief review of disability models/movements to go towards paper and MQE
+
+### Progress 03-13
+
+Obsidian Progression continues...
+
+![Progress](../images/Emmanuel-progress-3.png)
+
+## Next scrum: 2024-03-20
+
+- [ ] add to wiki page
+- [ ] mqe outline feedback: organise feedback in spreadsheet
+- [ ] flesh out brief review of disability models/mvmts for paper
 
 ___

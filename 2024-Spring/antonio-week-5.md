@@ -34,3 +34,20 @@ So in this, I'm including my goals that I didn't put anywhere at the beginning o
       - No updates, but learning Github
 ### 5. Pilot study
       - No updates
+
+## Updates -- Week 9
+### 1. Catastrophe Cusp 
+      - Got two datasets from Jay I'm going to try to fit to the model
+      - It is confirmed robust
+### 2. "Startup" 
+      - Still trying to figure out how to actually scrape data because it's going very poorly in the VS Code trenches
+         - Essentially, I either can't get their server to accept my request despite using "headers" that impersonate a real user
+         - EVEN IF THAT WORKS!!! I still get some other nonsense syntax error or everything runs fine, but it gives no output
+      - Feel like I'm in over my head and I'm not even done with the first test
+### 3. Making a study
+      - I was mistaken when I said this was scrapped. Jay still wants me to put together a word priming reaction time study for quantum stuff
+      - Just doing some literature review right now to put together a word list and figure out a control
+### 4. Misc
+      - I hope everyone had a good break
+        - I put too much money on my credit card balance in Pittsburgh and bed rotted for a week in West Virginia
+      - I cannot wait for employment and a 401k

@@ -77,3 +77,19 @@ I took spring break off as I was /this/ close to having a breakdown - and I'm st
 - Address response to Motor Control Manuscript and Re-submit by Friday.
 - Meet with ISIC to discuss direction of Galapagos Research & Outreach Directory Project.
 - Input last amendments into Dissertation project in Unity. 
+
+## Week 12
+
+Turns out last week was week 11, not week 10 - so that's fun! This week I have been working on some PEWS stuff and making tweaks to my dissertation - of which I'm having trouble with! I spoke to Kevin about freezing the size of the target aperture when participants initiate a reach, but this is a little harder than I thought it would be...
+
+That being said, I seemingly have the go ahead to collect data and am planning to start next week !
+
+I also got the Motor Control manuscript out and applied to some jobs.
+
+### Goals:
+
+- Attend Exponent Careers Event (Thursday)
+- Fix aperture freezing issue (Ask trent for help?)
+- Write 1 (2?) page abstract for Dissertation
+- Speak to Paula about situations where I have to continue into Fall semester.
+- Maybe speak to Tamara about working in Germany

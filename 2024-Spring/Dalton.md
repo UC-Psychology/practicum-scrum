@@ -56,3 +56,24 @@ I also very recently heard back from Motor Control about a submission that has b
 - Complete web set up for Capstone Unity project
 - Develop proposal for PEWS project to send to ISIC
 - Do revisions on Motor Control submission
+
+## Week 10 (NOTE Incoming Merge issue with Week 9)
+
+I took spring break off as I was /this/ close to having a breakdown - and I'm still equally as stressed but hey I guess I can technically say I had a break. I am catching back up to my endless list of responsibilities so let's figure out where I am.
+
+### Things that are done:
+
+- Greivance Review Committee Service is over (as far as I am aware)
+- Verbal Dissertation Proposal is done (though this is less meaningful than I originally thought)
+- Online data collection system for Capstone (unless getting survey data is more of a problem than I expect)
+
+### Things that are pending on others' input:
+
+- Written Dissertation Proposal (Handed in prior to spring break, but may be done depending on severity of feedback)
+- SONA Approval for Dissertation (Request submitted prior to spring break - awaiting approval)
+
+### Goals
+
+- Address response to Motor Control Manuscript and Re-submit by Friday.
+- Meet with ISIC to discuss direction of Galapagos Research & Outreach Directory Project.
+- Input last amendments into Dissertation project in Unity. 

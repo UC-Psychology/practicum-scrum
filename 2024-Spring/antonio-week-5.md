@@ -51,3 +51,15 @@ So in this, I'm including my goals that I didn't put anywhere at the beginning o
       - I hope everyone had a good break
         - I put too much money on my credit card balance in Pittsburgh and bed rotted for a week in West Virginia
       - I cannot wait for employment and a 401k
+
+
+## Updates -- Week 10?
+### 1. Catastrophe Cusp
+    - The data doesn't fit. Back to the drawing board.
+    - May work on a Wiki tutorial for using the `cusp` package in R, but I'm confused about all the details of creating a Github document in Quarto.
+### 2. "Startup"
+    - No progress really. May wait until summer to work on data scraping, or choose a different product that is easier to create a proof of concept.
+### 3. Making a study
+    - Did some lit review. Found priming studies and word lists.
+### 4. Misc
+    - Just trying to stay swimming :)

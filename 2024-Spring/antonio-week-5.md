@@ -51,3 +51,7 @@ So in this, I'm including my goals that I didn't put anywhere at the beginning o
       - I hope everyone had a good break
         - I put too much money on my credit card balance in Pittsburgh and bed rotted for a week in West Virginia
       - I cannot wait for employment and a 401k
+
+
+## Updates -- Week 11?
+I didn't get much done. Been focusing on classes and handling personal things. I won the NSF GRFP though!!

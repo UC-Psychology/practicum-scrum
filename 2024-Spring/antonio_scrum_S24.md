@@ -51,3 +51,19 @@ So in this, I'm including my goals that I didn't put anywhere at the beginning o
       - I hope everyone had a good break
         - I put too much money on my credit card balance in Pittsburgh and bed rotted for a week in West Virginia
       - I cannot wait for employment and a 401k
+
+## Updates -- Week 11 & 12
+Still can't believe they gave me an NSF Fellow...
+### 1. Catastrophe
+    - Literally just going back through the theory of it to see wtf is going on with our data fitting
+### 2. Website 
+    - Still do not fully understand how to work Github and Jekyll, but we're getting there
+    - Mostly copying your (Trent's) website
+### 3. AI and ambiguous figure stimuli production
+    - Frankly, not sure what I can do yet. 
+### 4. Word priming studies
+    - Have not got around to this entirely, but I'm doing so tonight (Tuesday, April 9)
+### 5. Personal
+    - Busy trying to find a new apartment
+    - Figuring out camera stuff for my hobby (photography is hard--I haven't done classical optics in four years)
+    - Woohoo NSF GRFP!!

@@ -1,5 +1,16 @@
 # Heather
 
+## Date 2024-04-15
+I finished the writing for my MQE! I turned it, so the next steps are:
+- organize a time for my committee to meet together
+- meet with them to discuss any changes they would like me to make
+- make those changes, gather signatures, and submit completion document
+
+Otherwise, I'm working on catching up on my teaching responsibilities as the semester ends, so I'll be:
+- creating exam questions
+- catching up on grading
+- figuring out what in-class involvement will be happening tomorrow for presentation day
+
 ## Date: 2024-03-04
 This week went better I got a decent amount of readings done although there is still a lot left and only 2 weeks to go. I decided to stop focusing on the books as much since I've already read a bit of them, and that has helped. Completed readings:
 - Essay 4.2
